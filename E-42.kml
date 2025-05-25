@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="E04_Polygons" id="E04_Polygons">
+	<SimpleField name="id" type="float"></SimpleField>
+	<SimpleField name="shapeid" type="float"></SimpleField>
+	<SimpleField name="lot_code" type="string"></SimpleField>
+	<SimpleField name="lot_number" type="string"></SimpleField>
+	<SimpleField name="calculated" type="float"></SimpleField>
+	<SimpleField name="declared_a" type="float"></SimpleField>
+	<SimpleField name="ia" type="string"></SimpleField>
+	<SimpleField name="BM_Capuso" type="int"></SimpleField>
+</Schema>
+<Folder><name>E04_Polygons</name>
+  <Placemark>
+	<Style><LineStyle><color>FF00e0fe</color><width>4.25196</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#E04_Polygons">
+		<SimpleData name="id">11522</SimpleData>
+		<SimpleData name="shapeid">35447</SimpleData>
+		<SimpleData name="lot_code">E04-01</SimpleData>
+		<SimpleData name="lot_number">E04-01</SimpleData>
+		<SimpleData name="calculated">0.568200000000000</SimpleData>
+		<SimpleData name="declared_a">0.500000000000000</SimpleData>
+		<SimpleData name="ia">MANACASANTA GUIMBA</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.820141010653,15.658019715778 120.820294176171,15.6580662327131 120.820549452035,15.6581433827518 120.820812669814,15.658215994553 120.821071349356,15.658285202676 120.82136293112,15.6583725637492 120.821402073419,15.6582557041318 120.821487165373,15.658045810644 120.821223947594,15.657956180452 120.820933500389,15.6578574737848 120.8206509951,15.6577644399146 120.820429756019,15.6577043082667 120.820270917704,15.6576464457377 120.820141010653,15.658019715778</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF00e0fe</color><width>4.25196</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#E04_Polygons">
+		<SimpleData name="id">11523</SimpleData>
+		<SimpleData name="shapeid">19705</SimpleData>
+		<SimpleData name="lot_code">E04-02</SimpleData>
+		<SimpleData name="lot_number">E04-02</SimpleData>
+		<SimpleData name="calculated">0.537500000000000</SimpleData>
+		<SimpleData name="declared_a">0.200000003000000</SimpleData>
+		<SimpleData name="ia">MANACASANTA GUIMBA</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.819783205582,15.6570033567906 120.820308865978,15.6571431600873 120.820532551253,15.6563966104825 120.819973338066,15.6562232543945 120.819788797714,15.6569138826806 120.819783205582,15.6570033567906</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF00e0fe</color><width>4.25196</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#E04_Polygons">
+		<SimpleData name="id">11524</SimpleData>
+		<SimpleData name="shapeid">35480</SimpleData>
+		<SimpleData name="lot_code">E04-03</SimpleData>
+		<SimpleData name="lot_number">E04-03</SimpleData>
+		<SimpleData name="calculated">0.357900000000000</SimpleData>
+		<SimpleData name="declared_a">0.600000024000000</SimpleData>
+		<SimpleData name="ia">MANACASANTA GUIMBA</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.820794516864,15.6574410904876 120.821150433,15.6562838782315 120.821176785262,15.6562119137786 120.821041177336,15.6561997845923 120.820881049262,15.6561917233971 120.820844542856,15.6562440799433 120.820921167691,15.6562653461692 120.820876420055,15.6563890031571 120.820814281343,15.6565772360601 120.820773023198,15.6566868987856 120.820728965835,15.6568504911168 120.820627601324,15.6571667523763 120.820559663069,15.6573582676519 120.820662907974,15.6573911698743 120.820794516864,15.6574410904876</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF00e0fe</color><width>4.25196</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#E04_Polygons">
+		<SimpleData name="id">11525</SimpleData>
+		<SimpleData name="shapeid">35483</SimpleData>
+		<SimpleData name="lot_code">E04-04</SimpleData>
+		<SimpleData name="lot_number">E04-04</SimpleData>
+		<SimpleData name="calculated">0.383600000000000</SimpleData>
+		<SimpleData name="declared_a">0.750000000000000</SimpleData>
+		<SimpleData name="ia">MANACASANTA GUIMBA</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.821288240807,15.6571297145945 120.821379100931,15.6568585758905 120.821447375567,15.6566102349089 120.82153592585,15.6563383793513 120.821394778245,15.6563240392527 120.821370680641,15.6562882252406 120.821338898498,15.6562426327019 120.821176785262,15.6562119137786 120.821150433,15.6562838782315 120.82092048147,15.6570315358613 120.821117448488,15.6570866668479 120.821288240807,15.6571297145945</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF00e0fe</color><width>4.25196</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#E04_Polygons">
+		<SimpleData name="id">11526</SimpleData>
+		<SimpleData name="shapeid">35479</SimpleData>
+		<SimpleData name="lot_code">E04-05</SimpleData>
+		<SimpleData name="lot_number">E04-05</SimpleData>
+		<SimpleData name="calculated">0.325400000000000</SimpleData>
+		<SimpleData name="declared_a">0.800000012000000</SimpleData>
+		<SimpleData name="ia">MANACASANTA GUIMBA</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.820364274589,15.6572116143543 120.820388231717,15.6572631123738 120.820442803452,15.6573117507168 120.820475705674,15.6573208271919 120.820559663069,15.6573582676519 120.820627601324,15.6571667523763 120.820728965835,15.6568504911168 120.820773023198,15.6566868987856 120.820814281343,15.6565772360601 120.820876420055,15.6563890031571 120.820921167691,15.6562653461692 120.820844542856,15.6562440799433 120.820770995963,15.6562476647575 120.820751171797,15.6563316411679 120.820633330329,15.6563110438994 120.820587343046,15.6564465591142 120.82050207308,15.6567154979118 120.820430990327,15.6569068790888 120.820370895292,15.6571123985183 120.820364274589,15.6572116143543</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF00e0fe</color><width>4.25196</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#E04_Polygons">
+		<SimpleData name="id">11527</SimpleData>
+		<SimpleData name="shapeid">35481</SimpleData>
+		<SimpleData name="lot_code">E04-06</SimpleData>
+		<SimpleData name="lot_number">E04-06</SimpleData>
+		<SimpleData name="calculated">0.476700000000000</SimpleData>
+		<SimpleData name="declared_a">0.250000000000000</SimpleData>
+		<SimpleData name="ia">MANACASANTA GUIMBA</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.820991930198,15.6575046258136 120.821142826597,15.6575488736299 120.821357258322,15.6576294273468 120.821610265067,15.6577099810637 120.821705000776,15.6574722908709 120.821757190508,15.6573429511001 120.821789668101,15.6572539243836 120.82166133109,15.6572085022518 120.821464764348,15.6571742067262 120.821117448488,15.6570866668479 120.82092048147,15.6570315358613 120.820794516864,15.6574410904876 120.820991930198,15.6575046258136</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF00e0fe</color><width>4.25196</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#E04_Polygons">
+		<SimpleData name="id">11528</SimpleData>
+		<SimpleData name="shapeid">35446</SimpleData>
+		<SimpleData name="lot_code">E04-07</SimpleData>
+		<SimpleData name="lot_number">E04-07</SimpleData>
+		<SimpleData name="calculated">0.515400000000000</SimpleData>
+		<SimpleData name="declared_a">0.500000000000000</SimpleData>
+		<SimpleData name="ia">MANACASANTA GUIMBA</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.820055918699,15.6583702946305 120.820223833489,15.658412273328 120.820556259391,15.6584939616043 120.820796785982,15.6585677079648 120.820971508129,15.658608552103 120.821037312574,15.6586267050533 120.82125060974,15.6586857021417 120.82136293112,15.6583725637492 120.821071349356,15.658285202676 120.820812669814,15.658215994553 120.820549452035,15.6581433827518 120.820294176171,15.6580662327131 120.820141010653,15.658019715778 120.820038333028,15.6583181048984 120.820055918699,15.6583702946305</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF00e0fe</color><width>4.25196</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#E04_Polygons">
+		<SimpleData name="id">11529</SimpleData>
+		<SimpleData name="shapeid">35491</SimpleData>
+		<SimpleData name="lot_code">E04-08</SimpleData>
+		<SimpleData name="lot_number">E04-08</SimpleData>
+		<SimpleData name="calculated">0.670800000000000</SimpleData>
+		<SimpleData name="declared_a">0.500000000000000</SimpleData>
+		<SimpleData name="ia">MANACASANTA GUIMBA</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.818848747505,15.6574863468012 120.819031285505,15.6575488736299 120.8192158405,15.6576053494753 120.819441743881,15.6576618253206 120.819633358356,15.6577243521494 120.819657680937,15.6577304327945 120.819692859693,15.6575821540388 120.819728409221,15.6574550833868 120.81976168963,15.657335576464 120.819782111699,15.6572629646629 120.81981085387,15.6571941347264 120.819724627356,15.6571442141131 120.819675463116,15.6571124464501 120.819609658671,15.6570889988893 120.819476537036,15.6570557184804 120.819365350215,15.657007310613 120.819248112411,15.6569694919666 120.819119529013,15.656921840472 120.819029520635,15.6569067130135 120.819000022091,15.656901418403 120.818967498055,15.6568885600632 120.818928923035,15.656879483588 120.818896399,15.6568757017234 120.818841561962,15.6572013202692 120.818762899178,15.6574615125567 120.818799961451,15.6574834473716 120.818848747505,15.6574863468012</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF00e0fe</color><width>4.25196</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#E04_Polygons">
+		<SimpleData name="id">11530</SimpleData>
+		<SimpleData name="shapeid">35452</SimpleData>
+		<SimpleData name="lot_code">E04-09</SimpleData>
+		<SimpleData name="lot_number">E04-09</SimpleData>
+		<SimpleData name="calculated">0.958400000000000</SimpleData>
+		<SimpleData name="declared_a">0.200000003000000</SimpleData>
+		<SimpleData name="ia">MANACASANTA GUIMBA</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.820883579776,15.659730064063 120.820977748205,15.6597589953275 120.821087800466,15.659800974025 120.821126942765,15.6596778743309 120.82121146744,15.6594237330269 120.821358960161,15.6590311754769 120.821497376407,15.6586749238275 120.8216233125,15.658350439841 120.821700462539,15.6581189897249 120.821837744225,15.6577718145506 120.821969353115,15.6574291776139 120.822080539935,15.6571432686469 120.822223494419,15.6567552493345 120.822347161393,15.6564262271105 120.822229167216,15.6564545910953 120.822068059782,15.6564625330111 120.822010197253,15.6566599463454 120.821970487674,15.6567802096411 120.821853628057,15.6570785987615 120.821757190508,15.6573429511001 120.821705000776,15.6574722908709 120.821610265067,15.6577099810637 120.82154899886,15.6578971833636 120.821487165373,15.658045810644 120.821402073419,15.6582557041318 120.82136293112,15.6583725637492 120.82125060974,15.6586857021417 120.821139990199,15.6589801203042 120.820992497478,15.6593862925669 120.820883579776,15.659730064063</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF00e0fe</color><width>4.25196</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#E04_Polygons">
+		<SimpleData name="id">22658</SimpleData>
+		<SimpleData name="shapeid">35471</SimpleData>
+		<SimpleData name="lot_code">E04-09A</SimpleData>
+		<SimpleData name="lot_number">E04-09A</SimpleData>
+		<SimpleData name="calculated">0.078900000000000</SimpleData>
+		<SimpleData name="declared_a">0.000000000000000</SimpleData>
+		<SimpleData name="ia">MANACASANTA GUIMBA</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.820938499541,15.6602002680211 120.820982747358,15.6600675245722 120.820894251725,15.6600402951467 120.820713856782,15.660521915609 120.82066109977,15.6606861430812 120.82075470092,15.6607091179089 120.820853407587,15.6604249107809 120.820938499541,15.6602002680211</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF00e0fe</color><width>4.25196</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#E04_Polygons">
+		<SimpleData name="id">11531</SimpleData>
+		<SimpleData name="shapeid">35485</SimpleData>
+		<SimpleData name="lot_code">E04-10-1</SimpleData>
+		<SimpleData name="lot_number">E04-10-1</SimpleData>
+		<SimpleData name="calculated">0.125000000000000</SimpleData>
+		<SimpleData name="declared_a">0.500000000000000</SimpleData>
+		<SimpleData name="ia">MANACASANTA GUIMBA</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.817095250946,15.6567815192869 120.817179516493,15.6565233439939 120.817019053377,15.6564722468005 120.816953613112,15.6564570072867 120.81689893015,15.6564435606568 120.816872036891,15.656430114027 120.816828111233,15.6564229424911 120.816811078835,15.6564175638391 120.81672770973,15.6566165739608 120.816719641752,15.6566604996183 120.816825421907,15.6566963572979 120.817095250946,15.6567815192869</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF00e0fe</color><width>4.25196</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#E04_Polygons">
+		<SimpleData name="id">22669</SimpleData>
+		<SimpleData name="shapeid">35484</SimpleData>
+		<SimpleData name="lot_code">E04-10-2</SimpleData>
+		<SimpleData name="lot_number">E04-10-2</SimpleData>
+		<SimpleData name="calculated">0.913800000000000</SimpleData>
+		<SimpleData name="declared_a">0.000000000000000</SimpleData>
+		<SimpleData name="ia">MANACASANTA GUIMBA</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.817036085775,15.6569912867124 120.817158450106,15.6570383499169 120.817326532979,15.6570809309114 120.817478031675,15.6571203743589 120.817608912206,15.6571499569446 120.817726346107,15.657199261254 120.81790832383,15.6572566335413 120.818102851742,15.6572960769889 120.818195185267,15.6573166951546 120.818320687146,15.6573426919723 120.818377162991,15.6573561386022 120.818431845952,15.657370481674 120.818445292582,15.6573122129447 120.818454257002,15.6572324296076 120.818488321798,15.6570710700495 120.818517007941,15.6569742543146 120.818553762063,15.6568218591764 120.818565415809,15.6567824157289 120.818367302129,15.6567196647896 120.818284829466,15.6566721533642 120.818156638262,15.6566336063586 120.818100162416,15.6567761406349 120.817941492184,15.6567384900714 120.817764893112,15.656685599994 120.817503132051,15.6566138846348 120.817305914814,15.6565636838834 120.817179516493,15.6565233439939 120.817095250946,15.6567815192869 120.817021742703,15.6569823222925 120.817036085775,15.6569912867124</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF00e0fe</color><width>4.25196</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#E04_Polygons">
+		<SimpleData name="id">11532</SimpleData>
+		<SimpleData name="shapeid">35482</SimpleData>
+		<SimpleData name="lot_code">E04-11</SimpleData>
+		<SimpleData name="lot_number">E04-11</SimpleData>
+		<SimpleData name="calculated">0.528100000000000</SimpleData>
+		<SimpleData name="declared_a">0.200000003000000</SimpleData>
+		<SimpleData name="ia">MANACASANTA GUIMBA</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.822068059782,15.6564625330111 120.821913243418,15.6564294508384 120.821762266096,15.6563977650587 120.821626013705,15.6563414314215 120.82153592585,15.6563383793513 120.821447375567,15.6566102349089 120.821379100931,15.6568585758905 120.821288240807,15.6571297145945 120.821464764348,15.6571742067262 120.82166133109,15.6572085022518 120.821789668101,15.6572539243836 120.821853628057,15.6570785987615 120.821970487674,15.6567802096411 120.822010197253,15.6566599463454 120.822068059782,15.6564625330111</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF00e0fe</color><width>4.25196</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#E04_Polygons">
+		<SimpleData name="id">11533</SimpleData>
+		<SimpleData name="shapeid">35490</SimpleData>
+		<SimpleData name="lot_code">E04-12</SimpleData>
+		<SimpleData name="lot_number">E04-12</SimpleData>
+		<SimpleData name="calculated">0.866300000000000</SimpleData>
+		<SimpleData name="declared_a">0.612299979000000</SimpleData>
+		<SimpleData name="ia">MANACASANTA GUIMBA</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.81933635592,15.6591291888022 120.819371653323,15.6590111946254 120.819428633417,15.6588412628407 120.819546627594,15.6585704813323 120.819624281881,15.6586128382163 120.819708995649,15.6586410761389 120.819761437506,15.6586259486804 120.819787658434,15.6585856087908 120.819850185263,15.6583899603266 120.819888508158,15.6582457452215 120.819903635616,15.6581761589121 120.819829006821,15.6581680909342 120.819815896357,15.6581610314535 120.819838083296,15.6581095980944 120.819853210754,15.6580753091883 120.819829006821,15.6580440457739 120.819767488489,15.6580238758291 120.819738242069,15.6580127823595 120.819756395019,15.6579099156412 120.81981085387,15.6577707430223 120.819730174091,15.6577485560831 120.819633358356,15.6577243521494 120.819441743881,15.6576618253206 120.8192158405,15.6576053494753 120.819031285505,15.6575488736299 120.818848747505,15.6574863468012 120.818932452776,15.6575761030554 120.819054480942,15.6577223351549 120.81911700777,15.6578615077738 120.819167432632,15.6580400117849 120.819188611074,15.6583203740172 120.819236010445,15.6587620958075 120.819261222876,15.6589305148463 120.819282401318,15.6590444750342 120.819305596754,15.6591009508796 120.81933635592,15.6591291888022</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF00e0fe</color><width>4.25196</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#E04_Polygons">
+		<SimpleData name="id">11534</SimpleData>
+		<SimpleData name="shapeid">35449</SimpleData>
+		<SimpleData name="lot_code">E04-13</SimpleData>
+		<SimpleData name="lot_number">E04-13</SimpleData>
+		<SimpleData name="calculated">0.304900000000000</SimpleData>
+		<SimpleData name="declared_a">0.300000012000000</SimpleData>
+		<SimpleData name="ia">MANACASANTA GUIMBA</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.820329347512,15.6574921456603 120.82040876667,15.657524480603 120.82059596897,15.6575834776914 120.820693541078,15.6576237545498 120.820892656251,15.6576850207571 120.821079858551,15.6577400468876 120.821283511962,15.6578052840527 120.82154899886,15.6578971833636 120.821610265067,15.6577099810637 120.821357258322,15.6576294273468 120.821142826597,15.6575488736299 120.820991930198,15.6575046258136 120.820794516864,15.6574410904876 120.820662907974,15.6573911698743 120.820559663069,15.6573582676519 120.820475705674,15.6573208271919 120.820442803452,15.6573117507168 120.820398555635,15.6573457874986 120.820361115175,15.6573798242803 120.820331616631,15.6574456287251 120.820329347512,15.6574921456603</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF00e0fe</color><width>4.25196</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#E04_Polygons">
+		<SimpleData name="id">11535</SimpleData>
+		<SimpleData name="shapeid">35445</SimpleData>
+		<SimpleData name="lot_code">E04-14</SimpleData>
+		<SimpleData name="lot_number">E04-14</SimpleData>
+		<SimpleData name="calculated">0.433900000000000</SimpleData>
+		<SimpleData name="declared_a">0.500000000000000</SimpleData>
+		<SimpleData name="ia">MANACASANTA GUIMBA</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.821139990199,15.6589801203042 120.82125060974,15.6586857021417 120.821037312574,15.6586267050533 120.820971508129,15.658608552103 120.820796785982,15.6585677079648 120.820556259391,15.6584939616043 120.820223833489,15.658412273328 120.820055918699,15.6583702946305 120.820050245902,15.6584338299565 120.820038900308,15.6584905579261 120.82001620912,15.6585382094206 120.819994652492,15.6585416130988 120.819967990346,15.6585501222942 120.819956077472,15.6585796208385 120.819949837396,15.6586227340954 120.81996004843,15.6586408870457 120.820037198469,15.6586681164711 120.820157461764,15.6586930767778 120.820462090962,15.6587747650541 120.820571575943,15.6588088018359 120.820719635944,15.6588536169319 120.820944845983,15.6589171522579 120.821139990199,15.6589801203042</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF00e0fe</color><width>4.25196</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#E04_Polygons">
+		<SimpleData name="id">11536</SimpleData>
+		<SimpleData name="shapeid">35448</SimpleData>
+		<SimpleData name="lot_code">E04-15</SimpleData>
+		<SimpleData name="lot_number">E04-15</SimpleData>
+		<SimpleData name="calculated">0.240400000000000</SimpleData>
+		<SimpleData name="declared_a">0.200000003000000</SimpleData>
+		<SimpleData name="ia">MANACASANTA GUIMBA</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.820270917704,15.6576464457377 120.820429756019,15.6577043082667 120.8206509951,15.6577644399146 120.820933500389,15.6578574737848 120.821223947594,15.657956180452 120.821487165373,15.658045810644 120.82154899886,15.6578971833636 120.821283511962,15.6578052840527 120.821079858551,15.6577400468876 120.820892656251,15.6576850207571 120.820693541078,15.6576237545498 120.82059596897,15.6575834776914 120.82040876667,15.657524480603 120.820329347512,15.6574921456603 120.820270917704,15.6576464457377</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF00e0fe</color><width>4.25196</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#E04_Polygons">
+		<SimpleData name="id">11537</SimpleData>
+		<SimpleData name="shapeid">35487</SimpleData>
+		<SimpleData name="lot_code">E04-16</SimpleData>
+		<SimpleData name="lot_number">E04-16</SimpleData>
+		<SimpleData name="calculated">0.463200000000000</SimpleData>
+		<SimpleData name="declared_a">0.349999994000000</SimpleData>
+		<SimpleData name="ia">MANACASANTA GUIMBA</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.818156638262,15.6566336063586 120.818284829466,15.6566721533642 120.818367302129,15.6567196647896 120.818565415809,15.6567824157289 120.818625029201,15.656427424701 120.818665369091,15.6561840407008 120.818709742969,15.6559783072642 120.818729912914,15.6558774575404 120.818729912914,15.655825015684 120.818755461511,15.655745680568 120.818548383411,15.655742991242 120.818505354196,15.65573761259 120.818386127411,15.6558106726122 120.818404056251,15.6558716306675 120.818373577223,15.6559191420929 120.81834040887,15.6559881681261 120.81829558677,15.6560805016511 120.818261521974,15.6561800067119 120.818216699875,15.6563153694523 120.818132434328,15.6565314119718 120.818131537886,15.6566102988669 120.818156638262,15.6566336063586</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>FF00e0fe</color><width>4.25196</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#E04_Polygons">
+		<SimpleData name="id">11538</SimpleData>
+		<SimpleData name="shapeid">35486</SimpleData>
+		<SimpleData name="lot_code">E04-17</SimpleData>
+		<SimpleData name="lot_number">E04-17</SimpleData>
+		<SimpleData name="calculated">0.422200000000000</SimpleData>
+		<SimpleData name="declared_a">0.250000000000000</SimpleData>
+		<SimpleData name="ia">MANACASANTA GUIMBA</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.817698556405,15.6563897741375 120.817919081134,15.6564650752646 120.818132434328,15.6565314119718 120.818216699875,15.6563153694523 120.818261521974,15.6561800067119 120.81829558677,15.6560805016511 120.81834040887,15.6559881681261 120.818373577223,15.6559191420929 120.818404056251,15.6558716306675 120.818386127411,15.6558106726122 120.818362819919,15.6557873651205 120.818187117289,15.6557837793525 120.818089405112,15.6557550932088 120.818000657355,15.655739853695 120.817940595742,15.6557138568773 120.817919081134,15.6557057888994 120.817859915963,15.6558563911537 120.817812404538,15.6559935467781 120.817752342924,15.6562104857395 120.817698556405,15.6563897741375</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

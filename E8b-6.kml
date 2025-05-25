@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="E34_Polygons" id="E34_Polygons">
+	<SimpleField name="id" type="float"></SimpleField>
+	<SimpleField name="shapeid" type="float"></SimpleField>
+	<SimpleField name="lot_code" type="string"></SimpleField>
+	<SimpleField name="lot_number" type="string"></SimpleField>
+	<SimpleField name="calculated" type="float"></SimpleField>
+	<SimpleField name="declared_a" type="float"></SimpleField>
+	<SimpleField name="ia" type="string"></SimpleField>
+	<SimpleField name="BM_Capuso" type="int"></SimpleField>
+</Schema>
+<Folder><name>E34_Polygons</name>
+  <Placemark>
+	<Style><LineStyle><color>FF00e0fe</color><width>4.25196</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#E34_Polygons">
+		<SimpleData name="id">12011</SimpleData>
+		<SimpleData name="shapeid">2481</SimpleData>
+		<SimpleData name="lot_code">E34-13</SimpleData>
+		<SimpleData name="lot_number">E34-13</SimpleData>
+		<SimpleData name="calculated">1.302000000000000</SimpleData>
+		<SimpleData name="declared_a">1.500000000000000</SimpleData>
+		<SimpleData name="ia">MANACASANTA GUIMBA</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.797239226015,15.6313634945932 120.796934600615,15.6312528256055 120.796333085726,15.6327310970476 120.795616218473,15.6342112491047 120.795660132148,15.6342571100294 120.795711343471,15.6343126063023 120.795782364863,15.6343611301913 120.795873042819,15.6344170231352 120.795941955817,15.6344320587876 120.797164891427,15.6315489894145 120.797239226015,15.6313634945932</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

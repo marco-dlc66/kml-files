@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="E7_Polygons" id="E7_Polygons">
+	<SimpleField name="id" type="float"></SimpleField>
+	<SimpleField name="shapeid" type="float"></SimpleField>
+	<SimpleField name="lot_code" type="string"></SimpleField>
+	<SimpleField name="lot_number" type="string"></SimpleField>
+	<SimpleField name="calculated" type="float"></SimpleField>
+	<SimpleField name="declared_a" type="float"></SimpleField>
+	<SimpleField name="ia" type="string"></SimpleField>
+	<SimpleField name="BM_Capuso" type="int"></SimpleField>
+</Schema>
+<Folder><name>E7_Polygons</name>
+  <Placemark>
+	<Style><LineStyle><color>FF00e0fe</color><width>4.25196</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#E7_Polygons">
+		<SimpleData name="id">19617</SimpleData>
+		<SimpleData name="shapeid">16239</SimpleData>
+		<SimpleData name="lot_code">E7-14-1</SimpleData>
+		<SimpleData name="lot_number">E17-14-1</SimpleData>
+		<SimpleData name="calculated">1.256000000000000</SimpleData>
+		<SimpleData name="declared_a">0.000000000000000</SimpleData>
+		<SimpleData name="ia">MANACASANTA GUIMBA</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.805084301852,15.619354613458 120.804803287571,15.619593770402 120.804577097755,15.619757656346 120.803000868649,15.6207164643764 120.802720599746,15.620909736742 120.802853609909,15.6210181838944 120.80308413589,15.6211870982146 120.803135568726,15.6212296399515 120.80315336255,15.6212313190357 120.803172849031,15.6212195064279 120.803187969422,15.6211813833227 120.803241488366,15.6211008672432 120.803415325784,15.6209937877081 120.804688685596,15.6202470430623 120.804506767366,15.6200223306202 120.80475308897,15.6197988999605 120.804866901178,15.6197287426684 120.804897164189,15.6197230415056 120.804921878986,15.6197292925367 120.804955558162,15.6197664029242 120.805270044438,15.6195414018641 120.805084301852,15.619354613458</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="A50_Polygons" id="A50_Polygons">
+	<SimpleField name="id" type="float"></SimpleField>
+	<SimpleField name="shapeid" type="float"></SimpleField>
+	<SimpleField name="lot_code" type="string"></SimpleField>
+	<SimpleField name="lot_number" type="string"></SimpleField>
+	<SimpleField name="calculated" type="float"></SimpleField>
+	<SimpleField name="declared_a" type="float"></SimpleField>
+	<SimpleField name="ia" type="string"></SimpleField>
+	<SimpleField name="BM_Capuso" type="int"></SimpleField>
+</Schema>
+<Folder><name>A50_Polygons</name>
+  <Placemark>
+	<Style><LineStyle><color>FF00e0fe</color><width>4.25196</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#A50_Polygons">
+		<SimpleData name="id">20479</SimpleData>
+		<SimpleData name="shapeid">14265</SimpleData>
+		<SimpleData name="lot_code">A50-01-01A</SimpleData>
+		<SimpleData name="lot_number">A50-01-01A</SimpleData>
+		<SimpleData name="calculated">0.725000000000000</SimpleData>
+		<SimpleData name="declared_a">0.000000000000000</SimpleData>
+		<SimpleData name="ia">MANACASANTA GUIMBA</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.793679157642,15.6161731698472 120.793723963053,15.6161130425074 120.793575459565,15.6160149276508 120.793534102045,15.6160793505863 120.7932515383,15.6164947829055 120.792874342984,15.6170491111858 120.792569218221,15.617488470972 120.792305464036,15.6178621363547 120.791580638627,15.6189172187521 120.791463313516,15.6190805203222 120.791377468806,15.6191911395252 120.79150082059,15.619307686901 120.79196678964,15.618616450912 120.792334563378,15.6180849143363 120.792822161126,15.6173893069614 120.793354803427,15.6166521964861 120.793679157642,15.6161731698472</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
